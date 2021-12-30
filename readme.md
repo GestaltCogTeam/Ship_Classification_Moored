@@ -1,1 +1,1 @@
-Ship Classification Based on Moored Records: A Datasets and Method
+A Hierarchical Spatial-Temporal Embedding Method Based on Enhanced Trajectory Features for Ship Type Classification
