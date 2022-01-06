@@ -1,0 +1,2 @@
+model_checkpoint_path: "bi_lstm.ckpt"
+all_model_checkpoint_paths: "bi_lstm.ckpt"
