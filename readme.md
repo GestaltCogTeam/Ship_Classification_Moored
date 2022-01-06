@@ -6,5 +6,9 @@ Dataset and source code for ship type classification by a hierarchical spatial-t
 - python 3.6
 - tensorflow 1.5.0
 
-## Running 
+## Usage
 - python main.py
+
+## Others
+
+More detiald Readme will be updated soon.
