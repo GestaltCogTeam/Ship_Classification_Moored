@@ -3,8 +3,8 @@
 Dataset and source code for ship type classification by a hierarchical spatial-temporal embedding method based on enhanced trajectory features.
 
 ## Reqriments
-- python 2.7
-- tensorflow 1.1
+- python 3.6
+- tensorflow 1.5.0
 
 ## Running 
 - python main.py
