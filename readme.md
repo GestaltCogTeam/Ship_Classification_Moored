@@ -1,6 +1,6 @@
 # A Hierarchical Spatial-Temporal Embedding Method Based on Enhanced Trajectory Features for Ship Type Classification
 
-Dataset and source code of "[A Hierarchical Spatial-Temporal Embedding Method Based on Enhanced Trajectory Features for Ship Type Classification] (https://www.mdpi.com/1424-8220/22/3/711)". Sensors 2022, 22(3), 711.
+Dataset and source code of "[A Hierarchical Spatial-Temporal Embedding Method Based on Enhanced Trajectory Features for Ship Type Classification](https://www.mdpi.com/1424-8220/22/3/711)". (Sensors 2022, 22(3), 711).
 
 ## Reqriments
 - python 3.6
